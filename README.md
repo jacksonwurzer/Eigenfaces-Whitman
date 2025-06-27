@@ -8,11 +8,11 @@ This project uses Principal Component Analysis (PCA) to extract eigenfaces from 
 
 
 
-#Main Features
+# Main Features
 
-- Dataset: Vectorized grayscale face images (Whitman College Faces dataset)
+- Dataset: Vectorized grayscale face images (Faces.mat dataset)
 
-- Dimensionality Reduction: PCA via Singular Value Decomposition (SVD)
+- Dimensionality Reduction: PCA via the SVD
 
 - Eigenfaces: Principal components representing dominant patterns of facial variation
 
@@ -20,4 +20,4 @@ This project uses Principal Component Analysis (PCA) to extract eigenfaces from 
 
 - Similarity Search: Identify most similar faces using Euclidean distance in PCA space
 
-- Visualization: Display mean face, eigenfaces, reconstructed faces, and 2D PCA projections
+- Visualization: Display mean face, eigenfaces, reconstructed faces, and similar faces.
