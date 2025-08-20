@@ -21,3 +21,8 @@ This project uses Principal Component Analysis (PCA) to extract eigenfaces from 
 - Similarity Search: Identify most similar faces using Euclidean distance in PCA space
 
 - Visualization: Display mean face, eigenfaces, reconstructed faces, and similar faces.
+
+
+  ## Files
+  - Faces.mat -- faces data stored in MATLAB file
+  - 
