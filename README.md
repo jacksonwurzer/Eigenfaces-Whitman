@@ -25,4 +25,4 @@ This project uses Principal Component Analysis (PCA) to extract eigenfaces from 
 
   ## Files
   - Faces.mat -- faces data stored in MATLAB file
-  - 
+  - face_analysis_pca.py -- Python script which implements the analysis
